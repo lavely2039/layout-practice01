@@ -1,6 +1,12 @@
-선생님: WEBSTORYBOY
-01 웹 표준 사이트 만들기 2019 (layout01)
-사이트를 만들기 전에 레이아웃을 익히는건 기본입니다.
-레이아웃 연습1
-깃허브에 올려보기
-완성
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>WEBSTORYBOY강의</title>
+</head>
+<body>
+  <h1>웹 표준 사이트 만들기(2019)</h1>
+  <h2>레이아웃 연습1</h2>
+  <p>깃허브 올려보기 완성</p>
+</body>
+</html>
